@@ -52,3 +52,17 @@ Thus $1 + 2 + ... + n = \frac{n(n+1)}{2}$
 
 ---
 
+## How to quickly tell if two circles are overlapping?
+
+2 circles are overlapping if the distance between their centers is strictly less than the sum of their radii
+
+---
+
+## How to tell if a point lies within a triangle given triangle vertices?
+
+(This is a bit sus, maybe there's a better idea)
+
+![Point in Triangle](../images/pt-in-triangle.png)
+
+Basically if $D$ is in $\triangle{ABC}$, then $[ABC] = [ADB] + [ADC] + [BDC]$
+- note $[ABC]$ = area of $\triangle{ABC}$

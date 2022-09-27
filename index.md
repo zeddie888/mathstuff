@@ -16,7 +16,7 @@ Feel free to contact me through:
 ---
 
 <br>
-This site is basically a hodgepodge of math concepts and algorithms I've encountered + found useful and interesting
+This site is basically a hodgepodge of math concepts and algorithms I've encountered + found useful and/or interesting
 
 [Link to Site](https://zeddie888.github.io/mathstuff/)
 
@@ -35,7 +35,10 @@ Also please let me know if you spot any mistakes or corrections that should be m
 
 - [Knuth Shuffle](algos/knuth-shuffle.md)
 - [Boyer-Moore Majority Vote](algos/boyer-moore.md)
-- [Single Unique Number](algos/single-unique.md)
+
+### may or may not be from leetcode
+
+- [Single Unique Number](leet/single-unique.md)
 
 ### misc stuff
 
