@@ -35,6 +35,7 @@ Also please let me know if you spot any mistakes or corrections that should be m
 
 - [Knuth Shuffle](algos/knuth-shuffle.md)
 - [Boyer-Moore Majority Vote](algos/boyer-moore.md)
+- [Single Unique Number](algos/single-unique.md)
 
 ### misc stuff
 
