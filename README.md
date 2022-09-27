@@ -29,6 +29,7 @@ Also please let me know if you spot any mistakes or corrections that should be m
 - [Fast Powers](mathy/fast-pow.md)
 - [Is Power of Two?](mathy/power-of-two.md)
 - [Euclid's Division Lemma](mathy/euclid-division.md)
+- [Random Questions/Answers](mathy/random-thoughts.md)
 
 ### general algorithms
 
@@ -38,3 +39,4 @@ Also please let me know if you spot any mistakes or corrections that should be m
 ### misc stuff
 
 - [Convolution](misc/convolution.md)
+- [Helpful Combinatoric Python Functions](src/helper.py)
