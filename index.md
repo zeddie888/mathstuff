@@ -2,7 +2,7 @@
 
 Hi there hello! My name is Edward Zhang and I'm currently a sophomore majoring in Computer Science at the University of Washington.
 
-Check out my [resume](https://drive.google.com/file/d/1s7ylMV1ZvZC33Zgpn09OaC8vqltBljxz/view?usp=sharing) here! (Google Drive)
+Check out my [resume](https://drive.google.com/file/d/1I5n9AoGiyaU-mYLv0h1PVJYU2Z92OKkr/view?usp=sharing) here! (Google Drive)
 
 Feel free to contact me through:
 
