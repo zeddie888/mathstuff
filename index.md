@@ -28,6 +28,7 @@ Also please let me know if you spot any mistakes or corrections that should be m
 
 - [Fast Powers](mathy/fast-pow.md)
 - [Is Power of Two?](mathy/power-of-two.md)
+- [Euclid's Algorithm for GCD](mathy/euclid-gcd-basic.md)
 - [Euclid's Division Lemma](mathy/euclid-division.md)
 - [Random Questions/Answers](mathy/random-thoughts.md)
 
