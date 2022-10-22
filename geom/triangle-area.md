@@ -9,9 +9,7 @@ Given the 3 side lengths of a triangle $a, b, c$:
 Define the triangle's semiperimeter $s = \dfrac{a+b+c}{2}$
 
 Then,
-$$
-Area = \sqrt{s(s-a)(s-b)(s-c)}
-$$
+$$Area = \sqrt{s(s-a)(s-b)(s-c)}$$
 
 ---
 
@@ -30,6 +28,4 @@ x_3 & y_3 & 1
 $$
 
 Equivalently,
-$$
-Area = \dfrac{1}{2} \left| x_1(y_2-y_3) - y_1(x_2-x_3) + (x_2y_3 - x_3y_2) \right|
-$$
+$$Area = \dfrac{1}{2} \left| x_1(y_2-y_3) - y_1(x_2-x_3) + (x_2y_3 - x_3y_2) \right|$$

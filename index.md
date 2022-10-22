@@ -32,6 +32,10 @@ Also please let me know if you spot any mistakes or corrections that should be m
 - [Euclid's Division Lemma](mathy/euclid-division.md)
 - [Random Questions/Answers](mathy/random-thoughts.md)
 
+### geometry
+
+- [Triangle Area Formulae](geom/triangle-area.md)
+
 ### general algorithms
 
 - [Knuth Shuffle](algos/knuth-shuffle.md)
