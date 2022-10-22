@@ -30,7 +30,6 @@ Also please let me know if you spot any mistakes or corrections that should be m
 - [Is Power of Two?](mathy/power-of-two.md)
 - [Euclid's Algorithm for GCD](mathy/euclid-gcd-basic.md)
 - [Euclid's Division Lemma](mathy/euclid-division.md)
-- [Random Questions/Answers](mathy/random-thoughts.md)
 
 ### geometry
 
@@ -44,8 +43,11 @@ Also please let me know if you spot any mistakes or corrections that should be m
 ### may or may not be from leetcode
 
 - [Single Unique Number](leet/single-unique.md)
+- [Power of Three](leet/is-pow-three.md)
 
 ### misc stuff
 
 - [Convolution](misc/convolution.md)
+- [Random Questions/Answers](misc/random-thoughts.md)
+- [Quick Jots](misc/quick-jots.md)
 - [Helpful Combinatoric Python Functions](src/helper.py)
